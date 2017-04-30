@@ -25,6 +25,7 @@ Manager
 |!usercmdcd | X | set the cooldown on commands by grey users |
 |!usercommands | | toggle user commands |
 |!voteskip | (X) | when no argument is specified, returns the current voteskip limit, when X is specified, voteskip limit is updated to the new specified limit. |
+|!bbq | | starts a bbq for the room |
 
 Bouncer+
 --------
@@ -84,7 +85,8 @@ Bouncer
 |!unmute | @user/all | unmute user |
 |!voteratio | @user | display the vote statistic for a user |
 |!whois | @user | returns plug related information about user |
-
+|!p | promotes user to bouncer |
+|!d | demotes user to Resident DJ |
 Resident DJ
 -----------
 
