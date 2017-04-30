@@ -25,6 +25,7 @@ Manager
 |!usercmdcd | X | set the cooldown on commands by grey users |
 |!usercommands | | toggle user commands |
 |!voteskip | (X) | when no argument is specified, returns the current voteskip limit, when X is specified, voteskip limit is updated to the new specified limit. |
+|!bbq | | starts a bbq for the room |
 
 Bouncer+
 --------
